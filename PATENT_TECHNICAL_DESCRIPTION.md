@@ -7,7 +7,6 @@
 Система реализует распределённое федеративное обучение (Federated Averaging — FedAvg) для диагностики дефектов подшипников на микроконтроллерах без передачи сырых сенсорных данных в облако.
 
 **Авторы**: Ярослав (16 лет), 2025
-**Юрисдикция**: Российская Федерация (Роспатент)
 
 ---
 
@@ -317,14 +316,14 @@ Output: binary classification (0-1)
 
 ## 12. Репозиторий и повторяемость
 
-**GitHub**: https://github.com/[твой_никнейм]/motor_fedlearning
+**GitHub**: https://github.com/YaroslavUfa/federated-vibro-diagnostics.git
 **Лицензия**: MIT (открытый исходный код)
 
 ### Воспроизведение результатов
 
 ```bash
 # Клонировать
-git clone https://github.com/[никнейм]/motor_fedlearning.git
+git clone https://github.com/YaroslavUfa/federated-vibro-diagnostics.git
 cd motor_fedlearning
 
 # Установить зависимости
